@@ -65,7 +65,7 @@
           font-weight: bold;
           font-family: arial;
           color: transparent;
-          background-image: linear-gradient(to right, #fd1d1d, #fcb045, #fcef45, #81fc45, #45d8fc,  #ee82ee, #ff69b4, #adff2f, #daa520, #4682b4, #af45fc, #5f9ea0, #5245fc, #800080);
+          background-image: linear-gradient(to right, #fd1d1d, #fcb045, #fcef45, #81fc45, #45d8fc, #5245fc, #af45fc, #ee82ee, #ff1493, #800080);
           background-size: 200% 200%;
           -webkit-animation: magic 5s infinite linear alternate, bounce 1s infinite linear alternate;
           -moz-animation: magic 5s infinite linear alternate, bounce 1s infinite linear alternate;
