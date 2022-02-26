@@ -1,4 +1,3 @@
-<h2 align="center">👋👋👋</h2>
 <img src="svg/welcome.svg" width="1200" alt="Hi" />
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>

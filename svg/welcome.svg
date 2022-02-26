@@ -20,7 +20,7 @@
         }
         .star {
           text-align: center;
-          font-size: 4em;
+          font-size: 3em;
           -webkit-animation: bounce 1s infinite linear alternate;
           -moz-animation: bounce 1s infinite linear alternate;
           -ms-animation: bounce 1s infinite linear alternate;
