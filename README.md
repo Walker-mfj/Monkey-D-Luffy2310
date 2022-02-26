@@ -29,6 +29,8 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Gulp-282C34?logo=gulp&logoColor=#CF4647" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/jQuery-282C34?logo=jQuery&logoColor=#0769AD" alt="Firebase logo" title="Firebase" height="25" /></span>
+&nbsp;
 
 
 <br>
