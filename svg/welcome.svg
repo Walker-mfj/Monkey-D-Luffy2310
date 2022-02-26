@@ -12,20 +12,50 @@
         }
         @keyframes bounce {
           from {
-            margin-top: 0;
+            transform: translateY(0px);
           }
           to {
-            margin-top: 30px;
+            transform: translateY(30px);
           }
         }
-        .wave {
+        @keyframes wave {
+          0% {
+            transform: rotate( 0.0deg)
+          }
+          10% {
+            transform: rotate(14.0deg)
+          }
+          20% {
+            transform: rotate(-8.0deg)
+          }
+          30% {
+            transform: rotate(14.0deg)
+          }
+          40% {
+            transform: rotate(-4.0deg)
+          }
+          50% {
+            transform: rotate(10.0deg)
+          }
+          60% {
+            transform: rotate( 0.0deg)
+          }
+          100% {
+            transform: rotate( 0.0deg)
+          }
+        }
+        .wrapper {
           text-align: center;
+        }
+        .wave {
           font-size: 3em;
-          -webkit-animation: bounce 1s infinite linear alternate;
-          -moz-animation: bounce 1s infinite linear alternate;
-          -ms-animation: bounce 1s infinite linear alternate;
-          -o-animation: bounce 1s infinite linear alternate;
-          animation: bounce 1s infinite linear alternate;
+          display: inline-block;
+          transform-origin: 70% 70%;
+          -webkit-animation: wave 2.5s infinite;
+          -moz-animation: wave 2.5s infinite;
+          -ms-animation: wave 2.5s infinite;
+          -o-animation: wave 2.5s infinite;
+          animation: wave 2.5s infinite;
         }
         .text {
           text-align: center;
@@ -48,8 +78,11 @@
           background-clip: text;
         }
       </style>
-      
-      <div class="wave">👋👋👋</div>
+      <div class="wrapper">
+        <span class="wave">👋</span>
+        <span class="wave">👋</span>
+        <span class="wave">👋</span>
+      </div>
       <div class="text">
         Hi, I'm Phuc.
       </div>
