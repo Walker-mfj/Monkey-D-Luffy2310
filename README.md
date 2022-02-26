@@ -25,6 +25,10 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Vite-282C34?logo=vite&logoColor=#646CFF" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Pug-282C34?logo=pug&logoColor=#A86454" alt="Firebase logo" title="Firebase" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Gulp-282C34?logo=gulp&logoColor=#CF4647" alt="Firebase logo" title="Firebase" height="25" /></span>
+&nbsp;
 
 
 <br>
