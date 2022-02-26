@@ -18,9 +18,9 @@
             margin-top: 30px;
           }
         }
-        .star {
+        .wave {
           text-align: center;
-          font-size: 2em;
+          font-size: 3em;
           -webkit-animation: bounce 1s infinite linear alternate;
           -moz-animation: bounce 1s infinite linear alternate;
           -ms-animation: bounce 1s infinite linear alternate;
@@ -49,7 +49,7 @@
         }
       </style>
       
-      <div class="star">👋👋👋</div>
+      <div class="wave">👋👋👋</div>
       <div class="text">
         Hi, I'm Phuc.
       </div>
