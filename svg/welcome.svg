@@ -1,0 +1,47 @@
+<svg fill="none" viewBox="0 0 1200 750" width="1200" height="750" xmlns="http://www.w3.org/2000/svg">
+	<foreignObject width="100%" height="100%">
+		<div xmlns="http://www.w3.org/1999/xhtml">
+      <style>
+        @keyframes magic {
+          from {
+            background-position: 0 0;
+          }
+          to {
+            background-position: 100% 100%;
+          }
+        }
+        @keyframes bounce {
+          from {
+            margin-top: 0;
+          }
+          to {
+            margin-top: 30px;
+          }
+        }
+        .text {
+          text-transform: uppercase;
+          font-size: 4em;
+          font-weight: bold;
+          font-family: arial;
+          color: transparent;
+          background-image: linear-gradient(to right, #fd1d1d, #fcb045, #fcef45, #81fc45, #45d8fc, #5245fc, #af45fc);
+          background-size: 200% 200%;
+          -webkit-animation: magic 3s infinite linear alternate, bounce 1s infinite linear alternate;
+          -moz-animation: magic 3s infinite linear alternate, bounce 1s infinite linear alternate;
+          -ms-animation: magic 3s infinite linear alternate, bounce 1s infinite linear alternate;
+          -o-animation: magic 3s infinite linear alternate, bounce 1s infinite linear alternate;
+          animation: magic 3s infinite linear alternate, bounce 1s infinite linear alternate;
+          -webkit-background-clip: text;
+          -moz-background-clip: text;
+          -ms-background-clip: text;
+          -o-background-clip: text;
+          background-clip: text;
+        }
+      </style>
+      
+      <div class="text">
+        Hi, I'm Phuc.
+      </div>
+		</div>
+	</foreignObject>
+</svg>
