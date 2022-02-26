@@ -4,10 +4,10 @@
       <style>
         @keyframes magic {
           from {
-            background-position: 0 0;
+            background-position: 0;
           }
           to {
-            background-position: 100% 100%;
+            background-position: 100%;
           }
         }
         @keyframes bounce {
@@ -60,18 +60,17 @@
         }
         .text {
           text-align: center;
-          text-transform: uppercase;
           font-size: 4em;
           font-weight: bold;
           font-family: arial;
           color: transparent;
-          background-image: linear-gradient(to right, #fd1d1d, #fcb045, #fcef45, #81fc45, #45d8fc, #5245fc, #af45fc, #ee82ee, #ff1493, #800080);
-          background-size: 200% 200%;
-          -webkit-animation: magic 5s infinite linear alternate, bounce 1s infinite linear alternate;
-          -moz-animation: magic 5s infinite linear alternate, bounce 1s infinite linear alternate;
-          -ms-animation: magic 5s infinite linear alternate, bounce 1s infinite linear alternate;
-          -o-animation: magic 5s infinite linear alternate, bounce 1s infinite linear alternate;
-          animation: magic 5s infinite linear alternate, bounce 1s infinite linear alternate;
+          background-image: radial-gradient(circle, #ff4500, #fcb045, #fcef45, #81fc45, #45d8fc,  #ee82ee, #ff69b4, #adff2f, #daa520, #4682b4, #af45fc, #5f9ea0, #5245fc, #800080);
+          background-size: 400%;
+          -webkit-animation: magic 15s infinite linear alternate, bounce 1s infinite linear alternate;
+          -moz-animation: magic 15s infinite linear alternate, bounce 1s infinite linear alternate;
+          -ms-animation: magic 15s infinite linear alternate, bounce 1s infinite linear alternate;
+          -o-animation: magic 15s infinite linear alternate, bounce 1s infinite linear alternate;
+          animation: magic 15s infinite linear alternate, bounce 1s infinite linear alternate;
           -webkit-background-clip: text;
           -moz-background-clip: text;
           -ms-background-clip: text;
