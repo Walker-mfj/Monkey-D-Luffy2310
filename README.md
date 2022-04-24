@@ -23,15 +23,22 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Firebase-282C34?logo=firebase&logoColor=FFCA28" alt="Firebase logo" title="Firebase" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Vite-282C34?logo=vite&logoColor=#646CFF" alt="Firebase logo" title="Firebase" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Vite-282C34?logo=vite&logoColor=#646CFF" alt="Vite logo" title="Vite" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Pug-282C34?logo=pug&logoColor=#A86454" alt="Firebase logo" title="Firebase" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Pug-282C34?logo=pug&logoColor=#A86454" alt="Pug logo" title="Pug" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Gulp-282C34?logo=gulp&logoColor=#CF4647" alt="Firebase logo" title="Firebase" height="25" /></span>
+<span><img src="https://img.shields.io/badge/Gulp-282C34?logo=gulp&logoColor=#CF4647" alt="Gulp logo" title="Gulp" height="25" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/jQuery-282C34?logo=jQuery&logoColor=#0769AD" alt="Firebase logo" title="Firebase" height="25" /></span>
+<span><img src="https://img.shields.io/badge/jQuery-282C34?logo=jQuery&logoColor=#0769AD" alt="jQuery logo" title="jQuery" height="25" /></span>
 &nbsp;
-
+<span><img src="https://img.shields.io/badge/Redux-282C34?logo=Redux&logoColor=#764ABC" alt="Redux logo" title="Redux" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=TypeScript&logoColor=#3178C6" alt="TypeScript logo" title="TypeScript" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/Docker-282C34?logo=Docker&logoColor=#2496ED" alt="Docker logo" title="Docker" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/GitHub-282C34?logo=GitHub&logoColor=#181717" alt="GitHub logo" title="GitHub" height="25" /></span>
+&nbsp;
 
 <br>
 
