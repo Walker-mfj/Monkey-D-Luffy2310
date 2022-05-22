@@ -39,6 +39,10 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Docker-282C34?logo=Docker&logoColor=#2496ED" alt="Docker logo" title="Docker" height="25" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/Go-282C34?logo=Go&logoColor=#00ADD8" alt="Go logo" title="Go" height="25" /></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/MySQL-282C34?logo=MySQL&logoColor=#4479A1" alt="MySQL logo" title="MySQL" height="25" /></span>
+&nbsp;
 
 <br>
 
